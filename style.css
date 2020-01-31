@@ -1,0 +1,46 @@
+.aside {
+    padding-left: 30em;
+    text-justify: newspaper;
+    text-decoration: blueviolet;
+}
+
+#photo {
+    padding-left: 10em;
+    padding-right: 10em;
+}
+
+.grid {
+    margin: 2em;
+}
+
+.row {
+    /* border: 2px solid red; */
+    margin: 2em;
+    padding: 1em;
+    /* background-image: url("/img/14copy.jpg");
+    opacity: 30%; */
+    z-index: -1;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.wide {
+    border: 12px solid white;
+}
+
+p {
+    text-align: center;
+}
+
+h1 {
+    text-shadow: cornflowerblue;
+    text-align: center;
+    font-size: 300%;
+}
+
+h2 {
+    font-family: cursive;
+    text-align: center;
+}
